@@ -1,0 +1,23 @@
+package JavaPractice;
+
+class P
+{
+	P()
+	{
+		System.out.println("We are in class P");
+	}	
+}
+
+class Q
+{
+	Q()
+	{
+		System.out.println("We are in class Q");
+	}
+}
+public class Empltoyee1 {
+
+	public static void main(String[] args) {
+		
+	}
+}

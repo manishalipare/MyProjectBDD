@@ -1,0 +1,16 @@
+package JavaPractice;
+
+public class Employee {
+     
+	int id;
+	String name;
+	long mobile;
+	public Employee(int id,String name) {
+		this.id=id;
+		this.name=name;
+		
+		System.out.println("id is " +id);
+		System.out.println("name is " +name);
+		
+	}
+}

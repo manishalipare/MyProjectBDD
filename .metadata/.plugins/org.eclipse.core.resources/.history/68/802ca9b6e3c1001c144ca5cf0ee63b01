@@ -1,0 +1,10 @@
+package JavaPractice;
+
+public class tester1 {
+
+	public static void main(String[] args) {
+		
+		String str="Manisha";
+		str.substring(1)
+	}
+}

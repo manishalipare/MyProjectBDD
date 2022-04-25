@@ -1,0 +1,18 @@
+package JavaPractice;
+
+class AAA
+{
+	int a;
+	public void getData()
+	{
+		int b;
+		
+	}
+}
+public class variable {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}

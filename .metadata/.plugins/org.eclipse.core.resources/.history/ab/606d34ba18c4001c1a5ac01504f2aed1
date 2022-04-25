@@ -1,0 +1,39 @@
+package StepDefinition;
+
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class definition1 {
+
+	@Before
+	public void LaunchB()
+	{
+		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe")
+	}
+	
+	@After
+	public void CloseB()
+	{
+		
+	}
+	@Given("Open app")
+	public void open_app() 
+	{
+	   
+	}
+
+	@When("Enter id and password and hit Login")
+	public void enter_id_and_password_and_hit_login() 
+	{
+	   
+	}
+
+	@Then("Home page should be displayed")
+	public void home_page_should_be_displayed() 
+	{
+	    
+	}
+}

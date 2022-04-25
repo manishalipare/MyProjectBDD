@@ -1,0 +1,14 @@
+package JavaPractice;
+
+public class largest {
+ public static void main(String[] args) {
+	
+
+	int arr[]= {11,12,34,5,3};
+	
+	for(int i=0;i<=arr.length-1;i++)
+	{
+		
+	}
+}
+}

@@ -1,0 +1,14 @@
+package Selenium;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+public class tester1 {
+
+	@Test
+	public void launchB()
+	{
+		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
+		Webdriver driver = new ChromeDriver();
+	}
+}

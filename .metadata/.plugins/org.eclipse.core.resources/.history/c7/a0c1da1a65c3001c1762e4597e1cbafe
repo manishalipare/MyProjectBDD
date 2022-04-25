@@ -1,0 +1,19 @@
+package JavaPractice;
+
+class A
+{
+	
+}
+public class tester1 {
+
+	public static void main(String[] args) {
+		
+		
+		String str="Manisha";
+		String str1="";
+		for()
+		{
+			
+		}
+	}
+}

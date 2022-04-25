@@ -1,0 +1,12 @@
+package JavaPractice;
+
+public class Employee {
+     
+	int id;
+	String name;
+	long mobile;
+	public Employee(int id,String name) {
+		
+		
+	}
+}

@@ -1,0 +1,12 @@
+package JavaPractice;
+
+public class tester3 {
+public static void main(String[] args) {
+	
+	String str1="Manisha";
+	String str2="Manish";
+	
+	System.out.println(str1.compareTo(str2));
+
+}
+}

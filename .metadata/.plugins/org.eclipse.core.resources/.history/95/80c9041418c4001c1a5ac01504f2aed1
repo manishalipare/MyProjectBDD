@@ -1,0 +1,7 @@
+
+Feature: Login to actitime
+
+  @smoke
+  Scenario: Login with valid user id and password
+
+ 

@@ -1,0 +1,25 @@
+package Selenium;
+
+import java.io.FileInputStream;
+
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
+
+public class fetchData {
+
+	
+	public static String GetData(String filePath,String SheetName,int row,int column)
+	{
+		String data = null;
+		FileInputStream fis = new FileInputStream(filePath);
+		sheet=WorkbookFactory.create(fis);
+		
+	}
+	
+	return data;
+	
+	
+	
+	
+	
+}

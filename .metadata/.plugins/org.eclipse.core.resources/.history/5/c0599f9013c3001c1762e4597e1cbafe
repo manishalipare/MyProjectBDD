@@ -1,0 +1,12 @@
+package Selenium1;
+
+import org.openqa.selenium.WebDriver;
+
+public class basePage {
+
+	public WebDriver driver;
+	 basePage(WebDriver driver)
+	{
+		
+	}
+}

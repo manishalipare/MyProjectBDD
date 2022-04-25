@@ -1,0 +1,20 @@
+package JavaPractice;
+
+class L
+{
+	
+}
+
+class M extends L
+{
+	
+}
+public class AA {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
+
+

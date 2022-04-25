@@ -1,0 +1,10 @@
+package JavaPractice;
+
+import java.util.ArrayList;
+
+public class arralist1 {
+public static void main(String[] args) {
+	
+	ArrayList<E> list = new ArrayList<E>();
+}
+}

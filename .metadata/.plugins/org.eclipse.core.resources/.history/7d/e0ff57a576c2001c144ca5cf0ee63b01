@@ -1,0 +1,12 @@
+package Selenium;
+
+public class fetchdata2 {
+
+	
+	public void getData()
+	{
+		
+		String id1 = fetchData.GetData("./resources/testdata.xlsx", "Sheet2", 1, 0);
+		System.out.println(id1);
+	}
+}

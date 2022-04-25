@@ -1,0 +1,9 @@
+package Selenium;
+
+public class fetchdata2 {
+
+	public static void main(String[] args) {
+		
+		fetchData.GetData("/Project/resources/testdata.xlsx", "Sheet2", 1, 0);
+	}
+}

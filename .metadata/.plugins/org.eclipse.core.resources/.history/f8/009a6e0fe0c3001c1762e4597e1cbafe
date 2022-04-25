@@ -1,0 +1,9 @@
+package JavaPractice;
+
+public class constructor1 {
+
+	public constructor1()
+	{
+		
+	}
+}

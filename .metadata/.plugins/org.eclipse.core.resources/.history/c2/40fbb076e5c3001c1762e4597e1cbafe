@@ -1,0 +1,17 @@
+package JavaPractice;
+
+class P
+{
+	P()
+	{
+		System.out.println("We are in class P");
+	}	
+}
+
+class Q
+{
+	
+}
+public class Empltoyee1 {
+
+}

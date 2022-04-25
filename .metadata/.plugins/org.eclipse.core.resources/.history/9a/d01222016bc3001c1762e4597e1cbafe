@@ -1,0 +1,14 @@
+package JavaPractice;
+
+public class tester3 {
+public static void main(String[] args) {
+	
+	String str="Manisha";
+	System.out.println(str.concat(str));
+	
+	String str1="Mani";
+	String str2="Lipare";
+	System.out.println(str1.compareTo(str2));
+
+}
+}

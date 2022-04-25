@@ -1,0 +1,12 @@
+package Selenium;
+
+import org.testng.annotations.Test;
+
+public class tester1 {
+
+	@Test
+	public void launchB()
+	{
+		System.setProperty("webdriver.chrome.driver", null)
+	}
+}

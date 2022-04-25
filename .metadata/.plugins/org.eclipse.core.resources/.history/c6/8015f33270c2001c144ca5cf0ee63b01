@@ -1,0 +1,16 @@
+package Selenium;
+
+
+public class fetchData {
+
+	String data = null;
+	public static String GetData(String filePath,String SheetName,int row,int column)
+	{
+		
+	}
+	
+	
+	
+	
+	
+}

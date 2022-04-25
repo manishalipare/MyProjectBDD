@@ -1,0 +1,9 @@
+package Selenium1;
+
+public class basePage {
+
+	public basePage()
+	{
+		
+	}
+}

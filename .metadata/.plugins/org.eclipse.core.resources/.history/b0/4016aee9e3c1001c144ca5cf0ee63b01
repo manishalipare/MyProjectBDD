@@ -1,0 +1,12 @@
+package JavaPractice;
+
+public class tester1 {
+
+	public static void main(String[] args) {
+		
+		String str="Manisha";
+		System.out.println(str.substring(1));
+		System.out.println(str.substring(1, 4));
+		System.out.println(str.hashCode());
+	}
+}

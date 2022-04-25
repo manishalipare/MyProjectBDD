@@ -1,0 +1,6 @@
+package JavaPractice;
+
+public class largest {
+
+	int arr[]= {11,12,34,5,3}
+}

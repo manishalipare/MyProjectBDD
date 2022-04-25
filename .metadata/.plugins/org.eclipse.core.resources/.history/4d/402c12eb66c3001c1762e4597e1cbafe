@@ -1,0 +1,14 @@
+package JavaPractice;
+
+public class tester3 {
+public static void main(String[] args) {
+	
+	
+	int arr[] = new int[10];
+	int brr[]= {11,12,13,14,15};
+	for(int a:brr)
+	{
+		
+	}
+}
+}

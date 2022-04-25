@@ -1,0 +1,16 @@
+package Selenium;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+public class tester1 {
+
+	@Test
+	public void launchB()
+	{
+		System.setProperty("webdriver.gecko.driver", "./driver/geckodriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+		driver.get("https://demo.actitime.com/login.do");
+		
+	}
+}

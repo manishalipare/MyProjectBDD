@@ -1,0 +1,24 @@
+package JavaPractice;
+
+class L
+{
+	public void testl()
+	{
+		System.out.println("testl");
+	}
+}
+
+class M extends L
+{
+	
+}
+public class AA {
+	
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
+
+

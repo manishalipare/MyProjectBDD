@@ -1,0 +1,12 @@
+package JavaPractice;
+
+class AAA
+{
+}
+public class variable {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}
